@@ -1,0 +1,10 @@
+{
+  "id": "layout-switcher-uk-en",
+  "name": "Layout Switcher (UA/EN)",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Convert selected text between English (QWERTY) and Ukrainian keyboard layouts, for when you forgot to switch layout before typing.",
+  "author": "Kostiantyn Perun",
+  "authorUrl": "https://github.com/kosperun",
+  "isDesktopOnly": false
+}
