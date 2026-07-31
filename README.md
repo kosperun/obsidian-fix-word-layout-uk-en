@@ -1,4 +1,4 @@
-# Layout Switcher (UA/EN) — Obsidian plugin
+# Layout Switcher (UA-EN) — Obsidian plugin
 
 Converts selected text between English (QWERTY) and Ukrainian keyboard
 layouts — for when you typed a word without switching layout first.
