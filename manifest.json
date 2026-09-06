@@ -1,9 +1,9 @@
 {
   "id": "layout-switcher-uk-en",
-  "name": "Layout Switcher (UA-EN)",
-  "version": "1.0.1",
+  "name": "Fix Word Layout (UA-EN)",
+  "version": "1.1.0",
   "minAppVersion": "0.15.0",
-  "description": "Convert selected text between English (QWERTY) and Ukrainian keyboard layouts, for when you forgot to switch layout before typing.",
+  "description": "Skip switching your system layout back and forth for a word or two — type them in the active layout, then convert just that selection between English (QWERTY) and Ukrainian.",
   "author": "Kostiantyn Perun",
   "authorUrl": "https://github.com/kosperun",
   "isDesktopOnly": false
